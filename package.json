@@ -30,7 +30,7 @@
   },
 
   "dependencies": {
-    "markdown-it": "^8.0.1",
+    "markdown-it": "^10.0.0",
     "shell-quote": "^1.6.1"
   }
 }
